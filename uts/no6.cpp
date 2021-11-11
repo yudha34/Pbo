@@ -79,7 +79,7 @@ int main(){
 		if(y == 'y'){
 		goto menu;	
 		}
-		else if(y == 'y'){
+		else if(y == 'n'){
 			system("clear");
 			cout<<" Thanks ";
 		}	
