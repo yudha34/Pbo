@@ -55,7 +55,7 @@ int main(){
 		
 	}
 	if (pilih == 0){
-		system("clear");
+		
 		cout<<"Thanks";
 	}
 		
