@@ -313,7 +313,7 @@ class garden : public anggrek,public mawar,public melati{
 		}
 	}
 	void displaygarden(){
-		cout<<"Garden Pusing "<<endl;
+		cout<<"Garden Kebun Bunga "<<endl;
 		cout<<"Ada "<<ntanaman<<" Tanaman di garden"<<endl;
 		cout<<"point panen anda = "<<hasilpanen<<endl;
 
